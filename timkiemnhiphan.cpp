@@ -2,6 +2,7 @@
 // Hay tim so n trong mang.
 #include<bits/stdc++.h>
 using namespace std;
+// Thuc hien de quy
 int dequy(int a[],int left, int right, int x){
 	 	while (left<= right){
 	 		int mid = (left + right )/2;
